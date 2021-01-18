@@ -2,9 +2,7 @@
 Requirements inside ``requirements.txt``<br>
 You need to generate the distances file. To do so, run the notebook inside the ``distances`` folder.
 
-<div class="text-red mb-2">
-  **THE OFFICIAL COMPETITION README FILE STARTS BELOW**
-</div>
+**THE OFFICIAL COMPETITION README FILE STARTS BELOW**
 
 # TWIML_codenames
 This repo contains the code for running the [TWIMLfest](https://twimlai.com/twimlfest/) [codenames competition](https://twimlai.com/twimlfest/sessions/codenames-bot-competition/) based on the game ["Codenames" by Vlaada Chvátil](https://czechgames.com/en/codenames/).
