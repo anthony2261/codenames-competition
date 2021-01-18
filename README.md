@@ -1,6 +1,7 @@
 # Codenames competition - Entry
 Requirements inside ``requirements.txt``<br>
-You need to generate the distances file. To do so, run the notebook inside the ``distances`` folder.
+You need to generate the distances file. To do so, run the notebook inside the ``distances`` folder.<br>
+You also need to download spacy's ``en_core_web_lg``. To do so, run ``python -m spacy download en_core_web_lg``
 
 **THE OFFICIAL COMPETITION README FILE STARTS BELOW**
 
