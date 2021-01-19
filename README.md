@@ -3,6 +3,8 @@ Requirements inside ``requirements.txt``<br>
 You need to generate the distances file. To do so, run the notebook inside the ``distances`` folder.<br>
 You also need to download spacy's ``en_core_web_lg``. To do so, run ``python -m spacy download en_core_web_lg``
 
+For a quick demo, check ``TWIML_codenames_quickgame.ipynb``. A more detailed demo can be found in ``TWIML_codenames_quickgame.ipynb``. The core model is found inside ``my_model.py``.
+
 **THE OFFICIAL COMPETITION README FILE STARTS BELOW**
 
 # TWIML_codenames
